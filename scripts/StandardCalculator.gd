@@ -158,3 +158,4 @@ func solve(equ):
 	#as a float.
 	return float(equ)
 	
+
